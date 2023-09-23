@@ -7,3 +7,6 @@ Average turn around time of scheduling algorithms(in order of fcfs,sjf,ps and rr
 --> Hence we can see that in this case, the Shortest job first is the most efficient scheduling algorithm.
 
 --> And the order in which the patients need to be attended to is: A,D,B,C
+
+
+Gayathri Chilukuri
